@@ -15,3 +15,5 @@ Current date and time is tracked
 https://cj-saurus.github.io/Work-Day-Scheduler/
 
 ## Screenshots
+
+<img src="./assets/images/Screenshot1.png"/>
